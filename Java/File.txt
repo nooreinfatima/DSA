@@ -1,0 +1,4 @@
+*Important*
+File name should be a capital letter
+to run file javac filename.java
+------>next java filename
